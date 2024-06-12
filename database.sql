@@ -17,12 +17,3 @@ values
 ("Kaos Kaki", "20000", 50, "Kaos kaki pria");
 
 
-select * from barang
-
-select barangName , barangHarga , barangDesc from barang
-
-select b.barangName , b.barangHarga  from barang b
-where barangName = "Kaos"
-
-update barang set barangName = "Topi Rapper"
-where barangStock = 20
