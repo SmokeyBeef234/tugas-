@@ -10,10 +10,10 @@ create TABLE barang(
 insert into barang 
 (barangName, barangHarga, barangStock, barangDesc)
 values
-("Kaos", 300000, 2, "Kaos Lengan Panjang"),
-("Kemeja", 250000, 2, "Kemeja kain"),
-("Topi", 80000, 20, "Topi NB"),
-("Sepatu", 300000, 3, "Sepatu compass"),
-("Kaos Kaki", "20000", 50, "Kaos kaki pria");
+("Rak Buku", 349000, 5, "BAGGEBO (Bookcase,White,50x30x80 cm)"),
+("Rak Penyimpanan", 2999000, 4, "KALLAX (shelving unit, white, 182x182 cm)"),
+("Kabinet dan Lemari Pajangan", 5999000, 10, "LOMMARP (cabinet, dark blue-green, 102x101 cm)"),
+("Perabotan TV dan Elektronik", 1899000, 5, "FJALLBO (TV bench, black, 100x36x54 cm)"),
+("Keranjang", "9900", 20, "SUNNERSTA (container, light yellow, 12x11 cm)");
 
 
